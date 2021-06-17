@@ -1,0 +1,79 @@
+main {
+  font-family: "Times New Roman", Times, serif;
+  padding-top: 30px;
+  padding-bottom: 80px;
+}
+
+#batmanLogo {
+  background-color: #e5e5e5;
+  padding: 15px;
+  margin-top: 0px;
+  padding: 10px;
+}
+
+#bat {
+  display: block;
+  margin: auto;
+}
+
+h1 {
+  background-color: #c4c4c4;
+  text-align: center;
+  color: #005677;
+  margin-top: 0px;
+  padding: 10px;
+  font-size: 35px;
+  word-spacing: 40px;
+  letter-spacing: 10px;
+}
+
+h3 {
+  background-color: #c4c4c4;
+  color: #005677;
+  word-spacing: 20px;
+  letter-spacing: 10px;
+  padding:5px;
+  padding-inline: 20px;
+}
+
+
+.neg {
+  font-weight: bold;
+}
+
+#dp {
+  font-style: italic;
+  font-weight: bold;
+}
+
+footer {
+  color: #ffffff;
+  background-color: #005677;
+  text-align: center;
+  padding: 0.5%;
+}
+
+#cont {
+  font-weight: bold;
+  font-size: 20px;
+  vertical-align: text-bottom;
+}
+
+.rs {
+  width: 18px;
+  height: 18px;
+  padding-left: 15px;
+}
+
+.s{
+    padding-left: 80px;
+}
+
+#ld{
+    padding-left: 60px;
+}
+
+#divo{
+    padding-left:11%;
+    padding-right: 11%;
+}
